@@ -45,8 +45,10 @@ Get your API invoke URL!
 Create a simple front end with a text input field and a submit button. The submit button should trigger the s3-save lambda.
 When the page loads trigger the s3-get lambda. 
 
-Useful Reference Repos
+Useful References
 
-* [DWYL Chat](https://github.com/dwyl/chat)
-* [s3-save](https://github.com/nikhilaravi/s3-save)
-* [s3-get](https://github.com/nikhilaravi/s3-get)
+* [DWYL Chat app](https://github.com/dwyl/chat)
+* [s3-save lambda](https://github.com/nikhilaravi/s3-save)
+* [s3-get lambda](https://github.com/nikhilaravi/s3-get)
+
+* [Node.js AWS SDK reference](https://aws.amazon.com/sdk-for-node-js/)

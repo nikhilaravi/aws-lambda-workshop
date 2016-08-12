@@ -32,8 +32,8 @@ MAKE SURE STEPS 1, 2, and 3 work!! Then move on to step 4 if you have time!
 
 ###STEP 4
 Create two endpoints on the api gateway:
-* /savemessage
-* /getmessage
+* `/savemessage`
+* `/getmessage`
 
 Then 
 * Connect the `/savemessage` endpoint to the `s3-save` lambda

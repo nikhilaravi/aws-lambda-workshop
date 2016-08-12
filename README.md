@@ -18,7 +18,7 @@ If you need - refer to [this repo](https://github.com/nikhilaravi/s3-save) (alth
 }
 ```
 
-**TEST steps 1 and 2 have been done correclty by doing a test invocation of the s3 save lambda function in the AWS console using a test event object. Create a  Check the s3 bucket to see if the tweet has been saved**
+**TEST steps 1 and 2 have been done correctly by doing a test invocation of the s3 save lambda function in the AWS console using a test event object. Create a  Check the s3 bucket to see if the tweet has been saved**
 
 ###STEP 3
 Create a Lambda function to retrieve messages from an s3 bucket

@@ -1,6 +1,8 @@
 # Founders and Coders Aws-lambda-workshop
 
-Build a simple version of Twitter using AWS Lambda
+Build a simple version of Twitter using AWS Lambda!!
+
+A one day introductory workshop for students at [Founders and Coders](http://www.foundersandcoders.com/)
 
 ###STEP 1
 Create an s3 bucket to save messages 
